@@ -1,26 +1,13 @@
 {
     "name" : "CoffeeScad",
     "version" : "0.2.0",
-    "license": "MIT",
-    "author": "Mark 'kaosat-dev' Moissette",
     "private" : "true",
-    "main": "index.html",
-    "devDependencies" : {
+    "dependencies" : {
         "findit" : "*",
         "glob" : "*",
         "mkdirp" : "*",
         "watch-tree-maintained" : "*",
         "requirejs" : "*",
-        "connect" : "*",
-        "node-zip": "*"
-    },
-    
-    "window": {
-    "title": "CoffeeSCad",
-    "icon": "favicon.ico",
-    "toolbar": false,
-    "width":1280,
-    "height":1024
+        "connect" : "*"
     }
-    
 }
