@@ -1,0 +1,13 @@
+{
+    "name" : "CoffeeScad",
+    "version" : "0.2.0",
+    "private" : "true",
+    "dependencies" : {
+        "findit" : "*",
+        "glob" : "*",
+        "mkdirp" : "*",
+        "watch-tree-maintained" : "*",
+        "requirejs" : "*",
+        "connect" : "*"
+    }
+}
