@@ -1,8 +1,6 @@
 {
     "name" : "CoffeeScad",
     "version" : "0.2.0",
-    "license": "MIT",
-    "author": "Mark 'kaosat-dev' Moissette",
     "private" : "true",
     "dependencies" : {
         "findit" : "*",
